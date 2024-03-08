@@ -17,7 +17,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseAuthorization();
-
+app.UseSwaggerUI();
 app.MapControllers();
 
 app.Run();
