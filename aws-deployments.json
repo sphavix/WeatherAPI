@@ -1,0 +1,10 @@
+{
+  "DeploymentProjects": [
+    {
+      "Path": "..\\WeatherAPIStacks"
+    },
+    {
+      "Path": "..\\WeatherCdkStacks"
+    }
+  ]
+}
